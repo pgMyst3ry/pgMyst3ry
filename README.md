@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @pgMyst3ry
+- 👀 I’m interested in coding and app development
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m looking to collaborate on a communication app
+- 📫 Hit me up on Discord: Myst3ry#4523
